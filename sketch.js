@@ -3,7 +3,7 @@ var header = 'justinharrison000@gmail.com';
 var repository = 'https://soundcloud.com/harrisonjustin';
 
 function preload() {
- audio = createAudio(['audio/huh_2.mp3']);
+ audio = createAudio(['huh_2.mp3']);
 }
 
 function setup() {
